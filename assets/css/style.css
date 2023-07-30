@@ -35,27 +35,27 @@ section .screen:hover{
     filter: grayscale(0);
 }
 section .screen:nth-child(1){
-    background-image: url(./img/altair.png);
+    background-image: url(../img/altair.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
 section .screen:nth-child(2){
-    background-image: url(./img/ezio.png);
+    background-image: url(../img/ezio.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
 section .screen:nth-child(3){
-    background-image: url(./img/connor.png);
+    background-image: url(../img/connor.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
 section .screen:nth-child(4){
-    background-image: url(./img/edward.png);
+    background-image: url(../img/edward.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
 section .screen:nth-child(5){
-    background-image: url(./img/shay.png);
+    background-image: url(../img/shay.png);
     background-repeat: no-repeat;
     background-size: cover;
 }
